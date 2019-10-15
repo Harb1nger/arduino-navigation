@@ -1,0 +1,20 @@
+-ID:/Coding/Arduino Project/Arduino Navgation/include
+-ID:/Coding/Arduino Project/Arduino Navgation/src
+-IC:/Users/Jahin Mir/.platformio/packages/framework-arduinoavr/cores/arduino
+-IC:/Users/Jahin Mir/.platformio/packages/framework-arduinoavr/variants/standard
+-IC:/Users/Jahin Mir/.platformio/lib/JLed_ID1711/src
+-IC:/Users/Jahin Mir/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src
+-IC:/Users/Jahin Mir/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src
+-IC:/Users/Jahin Mir/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src
+-IC:/Users/Jahin Mir/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src
+-IC:/Users/Jahin Mir/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src
+-IC:/Users/Jahin Mir/.platformio/packages/toolchain-atmelavr/avr/include
+-IC:/Users/Jahin Mir/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include
+-IC:/Users/Jahin Mir/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include-fixed
+-IC:/Users/Jahin Mir/.platformio/packages/tool-unity
+-DPLATFORMIO=40003
+-DARDUINO_AVR_UNO
+-DF_CPU=16000000L
+-DARDUINO_ARCH_AVR
+-DARDUINO=10805
+-D__AVR_ATmega328P__
