@@ -24,22 +24,22 @@ You should then use this information to calculate:
 - Flight Time to Landmark (time)
 
 To test the program you can use the following input values (example map shown below):
-|||
-:-----:|:-----:
+
+Variables|Values
+-----|-----
 True Track|250°
 Variation|+5°
 Deviation|-2°
 Distance to Destination|50 nm
 True Air Speed|60 kts
 Distance to Waypoint|10 nm
-|||
 
 This should give you the following calculated values:
-|||
-:-----:|:-----:
+
+Variables|Values
+-----|-----
 Magnetic Track|255°
 Compass Heading|253°
 Flight Time to Destination|38 mins
 Fuel Burn|37.5 litres
 Flight Time to Waypoint|12 mins
-|||
