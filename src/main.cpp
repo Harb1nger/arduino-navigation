@@ -1,7 +1,5 @@
 #include <Arduino.h>
 
-//test comment
-
 int x;
 
 void setup() {
